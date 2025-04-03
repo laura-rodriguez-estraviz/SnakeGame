@@ -1,0 +1,11 @@
+Este proyecto consiste en una serpiente compuesta de cubos, que empieza siendo de tamaño dos, y va creciendo a medida que se alimenta de las mandarinas que aparecen aleatoriamente por el tablero. 
+
+El juego acabará cuando la serpiente se muerda la cola, es decir su cabeza choque con alguna de las partes de su cuerpo. 
+
+Al tocar un borde la serpiente se teletransportará al otro lado del tablero y seguirá avanzando de manera que se alargue más el juego al haber mas posibilidades de escapatoria.
+ 
+La serpiente no podrá quedar paradada y se podrá decidir la dirección de su mobimiento mediante las flechas del teclado.
+
+A parte existen dos vistas, selecionables al pulsar 1(vista 2D desde arriba) y 2 (vista 3D desde una esquina del tablero).
+
+El juego también cuenta con una transición inicial de tres segundos donde se muestra el logo y nombre del juego, y una final donde se indica al jugador que ha perdido y se cierra la ventana.
